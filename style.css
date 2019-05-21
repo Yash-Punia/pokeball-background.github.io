@@ -24,7 +24,7 @@ body {
     z-index: -1;
     opacity: 0.0;
     position: fixed;
-    background: url("../img/zdmnPNG.png");
+    background: url("img/zdmnPNG.png");
     width: 40vw;
     height: 50vh;
     background-size: contain;
